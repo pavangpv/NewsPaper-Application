@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsPaper-Application/static/css/main.593a6a0a.css",
+    "main.js": "/NewsPaper-Application/static/js/main.50d6d4b8.js",
+    "index.html": "/NewsPaper-Application/index.html",
+    "main.593a6a0a.css.map": "/NewsPaper-Application/static/css/main.593a6a0a.css.map",
+    "main.50d6d4b8.js.map": "/NewsPaper-Application/static/js/main.50d6d4b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593a6a0a.css",
+    "static/js/main.50d6d4b8.js"
+  ]
+}
