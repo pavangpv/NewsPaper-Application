@@ -8,7 +8,7 @@ function App() {
 const[term, setTerm] = useState("")
   useEffect(()=>{
     const loadNews = async () => {
-      const response = await axios.get(`https://newsapi.org/v2/everything?domains=wsj.com&apiKey=663ffabad2714f8a954868707da0b830`)
+      const response = await axios.get("https://newsapi.org/v2/everything?domains=wsj.com&apiKey=663ffabad2714f8a954868707da0b830")
       setNews(response.data.articles)
     }
     loadNews();
