@@ -18,10 +18,7 @@ const[term, setTerm] = useState("")
 <div>
   <div className='header'>
     <div className='logo'>
-
       <h2>NEWSPAPER</h2>
-
-
     </div>
     <div className='serach'>
       <label>Search News : </label>
